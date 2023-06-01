@@ -95,3 +95,16 @@ if b == "l" or b == "left":
         print("")
 else:
     print("Fall into a hole. GAME OVER.")
+
+
+
+
+
+
+
+
+
+
+
+
+
